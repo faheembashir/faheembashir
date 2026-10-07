@@ -32,23 +32,21 @@ I'm **Faheem Bashir**, a developer interested in building useful applications an
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="60" alt="Python"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript"/>
-</a>
-
+   
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML"/>
+   <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS"/>
+   <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+   <img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript"/>
 </a>
 
+<a href="https://www.python.org/">
+   <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python"/>
+</a>
 <a href="https://git-scm.com/">
 <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
 </a>
