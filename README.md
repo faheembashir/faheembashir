@@ -60,9 +60,6 @@ I'm **Faheem Bashir**, a developer interested in building useful applications an
 <a href="https://code.visualstudio.com/">
 <img src="https://skillicons.dev/icons?i=vscode" width="60" alt="VS Code"/>
 </a>
-<a>
-   <img src="https://skillicons.dev/icons?i=dotnet" width="60" alt=".NET"/>
-</a>
 
 </div>
 
