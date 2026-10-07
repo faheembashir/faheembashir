@@ -177,12 +177,14 @@ Python
 | 🐍 Improve Python            | 🔄 Learning    |
 | 🌐 Master JavaScript         | 🔄 Learning    |
 | ⚛️ Learn React               | 🔜 Next        |
+| 🔵 Learn C#                  | 🔜 Next        |
+| 🟣 Learn .NET & ASP.NET Core | 🔜 Next        |
 | 🗄️ Learn Databases          | 🔜 Next        |
 | 🚀 Build Full-Stack Projects | 🔄 In Progress |
 | 🤝 Contribute to Open Source | 🎯 Goal        |
-| 
 
 </div>
+
 
 ---
 
